@@ -3,6 +3,7 @@ def vytvor_list_and_tuple():
         a tuple"""
     values = input()
     l = values.split(",")
+    del values
     t = tuple(l)
     print (l)
     print(t)
