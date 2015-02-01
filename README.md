@@ -1,2 +1,2 @@
 # python
-kody v python, učím sa
+I am a programmer beginner in python
